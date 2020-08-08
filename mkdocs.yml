@@ -19,7 +19,7 @@ nav:
       - 'Hijack Information': hijackinfo.md
       - Redis: redisinfo.md
   - Advanced:
-      - Autoconfiguration: autoconfiguration.md
+      - 'Auto-Configuration': autoconfiguration.md
       - 'Custom Tap': customtap.md
       - 'Community Annotations': commannotations.md
       - 'Database restore': dbrestore.md
@@ -31,4 +31,5 @@ nav:
       - GraphQL: graphqlapi.md
   - FAQ: faq.md
   - Changelog: changelog.md
-theme: readthedocs
+theme:
+  name: material
