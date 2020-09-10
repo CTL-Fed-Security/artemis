@@ -33,3 +33,5 @@ nav:
   - Changelog: changelog.md
 theme:
   name: material
+markdown_extensions:
+  - mdx_truly_sane_lists
